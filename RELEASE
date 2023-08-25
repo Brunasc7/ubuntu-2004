@@ -7,7 +7,7 @@ Linkedin: https://www.linkedin.com/in/robson-vaamonde-0b029028/
 Instagram: https://www.instagram.com/procedimentoem/?hl=pt-br
 Github: https://github.com/vaamonde
 Data de criação: 13/10/2021
-Data de atualização: 10/06/2023
+Data de atualização: 25/008/2023
 Versão: 0.30
 Testado e homologado para a versão do Ubuntu Server 20.04.x LTS x64
 Comando para verificar todas as versões dos scripts: grep 'Versão:' *.sh
@@ -20,8 +20,8 @@ Comando para verificar todas as datas de atualização dos scripts: grep 'Data d
       paste /tmp/01.txt /tmp/02.txt /tmp/03.txt | column -t >> ../RELEASE
 
 ============================ LANÇAMENTO DAS VERSÕES DOS SCRIPTS ============================
-00-parametros.sh           Versão:  1.00  Data  de  atualização:  10/06/2023
-01-openssh.sh              Versão:  0.28  Data  de  atualização:  30/04/2023
+00-parametros.sh           Versão:  1.00  Data  de  atualização:  25/08/2023
+01-openssh.sh              Versão:  0.28  Data  de  atualização:  25/08/2023
 02-dhcp.sh                 Versão:  0.16  Data  de  atualização:  30/04/2023
 03-dns.sh                  Versão:  0.18  Data  de  atualização:  30/04/2023
 04-dhcpdns.sh              Versão:  0.15  Data  de  atualização:  30/04/2023

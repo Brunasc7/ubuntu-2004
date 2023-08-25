@@ -42,7 +42,7 @@ network:
         #
         # Configuração do Nome de Pesquisa DNS do Ubuntu Server
         search:
-        - pti.intra
+        - sc7.intra
         #
   # Configuração da versão do Protocolo Ethernet do Ubuntu Server
   version: 2
